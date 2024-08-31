@@ -1,3 +1,6 @@
+![Output](https://github.com/user-attachments/assets/1b070ae3-6da8-4fbc-b120-9cdad5e089d7)
+
+
 # E-Commerce Website with Sign-up Form and FAQs
 
 This repository contains the source code for a simple e-commerce website designed using HTML and CSS. The webpage features a navigation bar, a sign-up form on the right side, and a list of Frequently Asked Questions (FAQs) on the left side.
